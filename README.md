@@ -6,8 +6,8 @@ https://github.com/uploadcare/pillow-simd
 Pillow SIMD 效能分析 
 https://python-pillow.org/pillow-perf/  
 ### 1. 先在有網路的狀況下 download 這些 package
-sudo apt download zlib1g libjbig0 libjpeg8 libjpeg-turbo8 liblzma5 libtiff5 libtiffxx5 libjbig-dev libjpeg8-dev libjpeg-turbo8-dev liblzma-dev zlib1g-dev libtiff5-dev
-pip3 download pillow-simd
+sudo apt download zlib1g libjbig0 libjpeg8 libjpeg-turbo8 liblzma5 libtiff5 libtiffxx5 libjbig-dev libjpeg8-dev libjpeg-turbo8-dev liblzma-dev zlib1g-dev libtiff5-dev  
+pip3 download pillow-simd  
 
 ### 你會得到以下安裝文件
 並把他copy 到你要安裝的機器上  
