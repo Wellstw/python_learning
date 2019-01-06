@@ -48,4 +48,4 @@ sudo dpkg -i libtiff5-dev_4.0.6-1ubuntu0.4_amd64.deb
 ### 3. install pliiow-simd  
 
 pip3 install Pillow-SIMD-5.3.0.post0.tar.gz  
-#DONE
+# DONE
