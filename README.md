@@ -5,3 +5,6 @@ https://github.com/Wellstw/python_learning/blob/master/voicetrim_using.ipynb
 
 如何使用 pyenv  
 https://github.com/pyenv/pyenv-installer  
+
+如何 在 ubuntu enable zswap  
+https://ubuntu-mate.community/t/enable-zswap-to-increase-performance/11302   
