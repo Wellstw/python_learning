@@ -2,3 +2,6 @@
 https://github.com/Wellstw/python_learning/blob/master/pillow_simd.md  
 使用 webrtcvad 去除聲音中 空白的部份  
 https://github.com/Wellstw/python_learning/blob/master/voicetrim_using.ipynb
+
+如何使用 pyenv  
+https://github.com/pyenv/pyenv-installer  
